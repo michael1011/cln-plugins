@@ -73,3 +73,6 @@
 [submodule "torq-plugin"]
 	path = torq-plugin
 	url = git@github.com:lncapital/torq-cln-plugin.git
+[submodule "hold"]
+	path = hold
+	url = https://github.com/BoltzExchange/hold
